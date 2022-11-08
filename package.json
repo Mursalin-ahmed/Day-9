@@ -1,0 +1,24 @@
+{
+  "name": "day-09",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "start-dev": "nodemon server2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mursalin-ahmed/Day-9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mursalin-ahmed/Day-9/issues"
+  },
+  "homepage": "https://github.com/Mursalin-ahmed/Day-9#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
